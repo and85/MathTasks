@@ -1,0 +1,1 @@
+1. HanoiTower - recursion2. XOR - Bit manipulation, XOR_swap_algorithm, XOR linked list
